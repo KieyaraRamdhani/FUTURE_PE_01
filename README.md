@@ -1,4 +1,4 @@
-# FUTURE_PE_01— AI Website Copy Generator (Prompt Engineering)
+# FUTURE_PE_01— AI Website Copy Generator (Prompt Engineering).
 
 ## 🧠 Objective
 To design a reusable prompt framework that generates conversion-focused website copy for local businesses.
